@@ -1,15 +1,4 @@
----
-title: "WAST"
-author: "Bethan"
-date: "11/11/2021"
-output:
-  html_document: default
-  pdf_document: default
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ---
 title: "Networked Data Lab: Mental health crises in children and teenagers"
